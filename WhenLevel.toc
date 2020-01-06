@@ -2,7 +2,7 @@
 ## Title: WhenLevel
 ## Author: Scott M Harrison
 ## Notes: Records when you level
-## Version: 011
+## Version: 012
 ## SavedVariables: WhenLevelDatabase
 ## SavedVariablesPerCharacter: WhenLevelData
 
